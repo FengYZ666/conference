@@ -3,8 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  THE BIGGEST HUGO
-  CONFERENCE WORLDWIDE
+  秀中科协棒棒棒！
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#tickets'
